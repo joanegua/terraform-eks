@@ -5,11 +5,11 @@
 
 
 
-## Terraform Installation And Setup In AWS EC2 Redhat Instnace.
+## Terraform Installation And Setup In AWS EC2 Redhat Instance.
 ##### Prerequisite
 + AWS Acccount.
-+ Create Redhat EC2 Instnace.
-+ Create IAM Role With Required Polocies.
++ Create Redhat EC2 Instance.
++ Create IAM Role With Required Policies.
    + VPCFullAccess
    + EC2FullAcces
    + S3FullAccess  ..etc
